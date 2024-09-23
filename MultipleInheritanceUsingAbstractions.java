@@ -3,7 +3,7 @@ package Abstractions;
 public class MultipleInheritanceUsingAbstractions {
 	public static void main(String[]args) {
 					Enginee engine=new Enginee();
-					System.out.println(engine.carBrand("Audi")+"\n"+engine.carNumber("TN 68 W 2304")+"\n"+engine.carColor("Black")+"\n"+engine.carPrice("2.5Cr"));
+					System.out.println(engine.carBrand("BMW")+" "+engine.carNumber("TN 68 W 2304")+" "+engine.carColor("Black")+" "+engine.carPrice("2.5Cr"));
 				}
 				}
 
